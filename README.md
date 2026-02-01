@@ -56,6 +56,7 @@ The retail business wants to:
 
 ## 📈 Dashboard Preview
 ![Dashboard](docs/dashboard_01.png)
+![Dashboard](docs/dashboard_02.png)
 
 ---
 
