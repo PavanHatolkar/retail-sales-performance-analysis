@@ -50,7 +50,7 @@ The retail business wants to:
 ---
 
 ## 📈 Dashboard Preview
-(Add screenshots here)
+![Dashboard](docs/dashboard_01.png)
 
 ---
 
@@ -73,3 +73,4 @@ The retail business wants to:
 
 ## 📌 Conclusion
 This project demonstrates end-to-end data analysis skills including data cleaning, SQL querying, KPI development, and dashboard creation.
+
