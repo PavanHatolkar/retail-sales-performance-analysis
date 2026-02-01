@@ -1,3 +1,7 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-data%20visualization-blue)
+![SQL](https://img.shields.io/badge/SQL-data%20processing-lightgrey)
+![Excel](https://img.shields.io/badge/Excel-data%20cleaning-green)
+
 # Retail Sales Performance Analysis
 
 ## 📌 Project Overview
@@ -21,14 +25,15 @@ The retail business wants to:
 - Records: 12,000+ transactions
 
 ### Key Columns
+### Data Dictionary
 | Column | Description |
-|------|------------|
-| invoice_id | Unique transaction ID |
+|--------|-------------|
+| invoice_id | Unique transaction identifier |
 | category | Product category |
-| sales | Revenue per transaction |
+| sales | Revenue for each transaction |
 | quantity | Units sold |
-| payment_method | Cash / Card / UPI |
-| channel | Online / Offline |
+| payment_method | Cash/Card/UPI |
+| channel | Online/Offline store |
 
 ---
 
@@ -64,10 +69,10 @@ The retail business wants to:
 
 ---
 
-## 💡 Key Insights
-- Online sales contribute a higher average order value than offline
-- UPI is the most used payment method
-- Certain categories show consistent revenue decline
+## Key Insights
+- Online sales contributed **56% of total revenue**, while offline stores contributed 44%.
+- UPI accounted for **45% of total transactions**, with the highest average order value.
+- Category "Electronics" generated the most revenue, while "Stationery" showed a consistent decline.
 
 ---
 
