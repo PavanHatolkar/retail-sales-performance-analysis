@@ -20,7 +20,7 @@ The retail business wants to:
 ---
 
 ## 📂 Dataset
-- Source: Kaggle (Retail Sales Dataset)
+- Source: Retail transaction dataset | Domain: E-commerce & Retail
 - Format: CSV
 - Records: 12,000+ transactions
 
